@@ -35,14 +35,19 @@ O site apresenta algumas das principais características do Audi RS7:
 
 A interface utiliza uma estética inspirada no universo **Audi Sport**, com:
 
-- Fundo escuro;
-- Detalhes em vermelho;
-- Tipografia moderna;
-- Cards de especificações;
-- Efeitos de transição;
-- Animações;
-- Layout responsivo para dispositivos móveis.
+- Fundo escuro
+- Detalhes em vermelho
+- Tipografia moderna
+- Cards de especificações
+- Efeitos de transição
+- Animações
+- Layout responsivo para dispositivos móveis
+## 👨‍💻 Desenvolvedores
 
+Projeto desenvolvido por:
+
+- **Gilberto**
+- **Luidy**
 ## 📂 Estrutura do projeto
 
 ```text
@@ -51,9 +56,4 @@ AudiRs7/
 ├── stylesheet.css
 └── README.md
 
-## 👨‍💻 Desenvolvedores
 
-Projeto desenvolvido por:
-
-- **Gilberto**
-- **Luidy**
